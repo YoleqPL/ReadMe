@@ -6,7 +6,7 @@
   <h3 align="center">Najlepszy Developer</h3>
 
   <p align="center">
-    Masz bana jeżeli nie powiesz ze jestem najlepszy
+    Siema
     <br />
     <br />
     Moj aktualny projekt »
