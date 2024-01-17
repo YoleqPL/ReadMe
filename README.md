@@ -1,4 +1,4 @@
-![JD](https://img.shields.io/badge/JD-100%25-blue) ![JS](https://img.shields.io/badge/JS-Only-yellow) ![15](https://img.shields.io/badge/17-Yo-orange) ![DC](https://img.shields.io/static/v1?label=Discord&message=Baby&color=ff69b4)
+![17](https://img.shields.io/badge/17-Yo-orange) ![DC](https://img.shields.io/static/v1?label=Discord&message=Baby&color=ff69b4)
 
 <br />
 <p align="center">
