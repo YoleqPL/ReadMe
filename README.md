@@ -1,4 +1,4 @@
-![JD](https://img.shields.io/badge/JD-100%25-blue) ![JS](https://img.shields.io/badge/JS-Only-yellow) ![15](https://img.shields.io/badge/15-Yo-orange) ![DC](https://img.shields.io/static/v1?label=Discord&message=Baby&color=ff69b4)
+![JD](https://img.shields.io/badge/JD-100%25-blue) ![JS](https://img.shields.io/badge/JS-Only-yellow) ![15](https://img.shields.io/badge/17-Yo-orange) ![DC](https://img.shields.io/static/v1?label=Discord&message=Baby&color=ff69b4)
 
 <br />
 <p align="center">
@@ -14,19 +14,19 @@
 
 <img src="https://avatars.githubusercontent.com/u/62619197?v=4" alt="Logo" width="80" height="80">
 
-Cześć jestem Yoleq, zajebisty programista.
+Cześć jestem Yoleq, twój dobry kumpel od programowania czy coś XD
 Programuje juz od jakiś 5 lat. Głownie to C#, JS, Html & Css.
 Nie chce mi się więcej tu pisać jak coś chcesz napisz mi na discordzie XD...
 
 ## Kontakt
 
-Yoleq - [Yoleq#1340](https://discordapp.com/users/401032377822085122)(Discord)
+Yoleq - [yoleq](https://discordapp.com/users/401032377822085122)(Discord)
 
 
 ## Przydatne stronki
+* [W3Schools](https://www.w3schools.com/)
 * [Dokumentacja discord.js](https://discord.js.org/#/)
 * [Color picker](https://htmlcolorcodes.com/color-picker/)
-* [Emojis](https://getemoji.com)
 * [Discord developer portal](https://discord.com/developers/applications)
 * [Visual Studio Code](https://code.visualstudio.com/)
   * [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
